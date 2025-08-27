@@ -124,5 +124,5 @@ Usando a biblioteca **scikit-learn**, monte um modelo preditivo para **campanhas
 
 ## 📬 Contato
 
-Em caso de dúvidas sobre este desafio, entre em contato pelo e-mail: **[recrutamento@empresa.com](mailto:desenvolvimento@soulcode.com)**
+Em caso de dúvidas sobre este desafio, entre em contato pelo e-mail: **[desenvolvimento@soulcode.com](mailto:desenvolvimento@soulcode.com)**
 

@@ -84,6 +84,9 @@
   ---
 
 Autor
-Nome: [Stella Fernandes]
+
+Nome: Stella Fernandes
+
 LinkedIn: [https://www.linkedin.com/in/stellafern/]
+
 Email: [sdib2626@gmail.com]

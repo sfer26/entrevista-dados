@@ -1,4 +1,4 @@
-#🚀 Desafio Técnico – Analista de Dados & Desenvolvedor LLM
+# 🚀 Desafio Técnico – Analista de Dados & Desenvolvedor LLM
 ## **Projeto de Recuperação de Receita: Análise e Modelo Preditivo**
 #### 📊**1. Visão Geral do Desafio**
 - **1.1. Objetivos de Negócio:**

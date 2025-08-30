@@ -80,7 +80,9 @@
 - O modelo de **Regressão Logística** foi selecionado como a solução mais adequada para os objetivos de negócio. Embora apresente uma acurácia geral de 49%, sua capacidade de identificar corretamente 50% dos clientes que efetivamente convertem (Recall = 50%) o torna a ferramenta ideal para **maximizar a recuperação de leads qualificados**.
 - **Potencial de Recuperação de Receita:** Considerando a taxa de abandono atual de 📉 63% e a efetividade do modelo (Recall de 50%), *estima-se que a implementação desta solução possa **recuperar até 31,5% da receita total perdida**por carrinhos abandonados*. Este cálculo conservador considera apenas os casos em que o modelo identifica corretamente oportunidades de conversão.
 - **Próximos Passos:** A análise dos coeficientes da regressão logística permitirá, em trabalhos futuros, identificar quais variáveis exercem maior influência na probabilidade de conversão, possibilitando o refinamento das estratégias de recuperação e a otimização contínua do modelo preditivo.
+
   ---
+
 Autor
 Nome: [Stella Fernandes]
 LinkedIn: [https://www.linkedin.com/in/stellafern/]
